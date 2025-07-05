@@ -9,11 +9,14 @@
       <p>🎓 I also completed my <strong>GCSE education in EF UK</strong>, where I developed a strong foundation in mathematics and computing.</p>
     </td>
     <td style="text-align: center; min-width: 200px;">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif" alt="NN GIF" width="200" style="max-width: 100%;">
+      <picture>
+        <!-- Fallback: transparent 1x1 GIF on small screens -->
+        <source media="(max-width: 600px)" srcset="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif" width="200" alt="NN GIF">
+      </picture>
     </td>
   </tr>
 </table>
-
 
 ## 🧠 What I’m Passionate About
 - Natural Language Processing (NLP)
