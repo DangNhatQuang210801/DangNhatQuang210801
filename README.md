@@ -1,18 +1,22 @@
 <img src="https://github.com/mhardik003/mhardik003/blob/main/gifs/mario.gif?raw=true" alt="banner" width="100%">
 
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px; display: table; width: 100%;">
 
-  <!-- Left Side: Text -->
-  <div style="flex: 1 1 300px; min-width: 280px;">
-    <h1>👋 Hi, I’m Quang</h1>
-    <p>🎓 I'm currently a <strong>Master's student in Linguistic Data Science</strong> at Ruhr University Bochum, Germany.</p>
-    <p>📘 I hold a <strong>Bachelor’s degree in Information Technology</strong> from James Cook University, Singapore.</p>
-    <p>🎓 I also completed my <strong>GCSE education in EF UK</strong>, where I developed a strong foundation in mathematics and computing.</p>
-  </div>
+  <div style="display: table-row;">
 
-  <!-- Right Side: GIF -->
-  <div style="flex: 1 1 200px; min-width: 200px; text-align: center;">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif" alt="NN GIF" width="200" style="max-width: 100%;">
+    <!-- Left Column (Text) -->
+    <div style="display: table-cell; vertical-align: top; padding-right: 20px; min-width: 280px;">
+      <h1>👋 Hi, I’m Quang</h1>
+      <p>🎓 I'm currently a <strong>Master's student in Linguistic Data Science</strong> at Ruhr University Bochum, Germany.</p>
+      <p>📘 I hold a <strong>Bachelor’s degree in Information Technology</strong> from James Cook University, Singapore.</p>
+      <p>🎓 I also completed my <strong>GCSE education in EF UK</strong>, where I developed a strong foundation in mathematics and computing.</p>
+    </div>
+
+    <!-- Right Column (GIF) -->
+    <div style="display: table-cell; vertical-align: middle; text-align: center; min-width: 200px;">
+      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif" width="200" alt="NN GIF" style="max-width: 100%;">
+    </div>
+
   </div>
 
 </div>
