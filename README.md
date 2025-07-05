@@ -1,18 +1,20 @@
 <img src="https://github.com/mhardik003/mhardik003/blob/main/gifs/mario.gif?raw=true" alt="banner" width="100%">
 
-<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
-  <div style="flex: 1; min-width: 250px; max-width: 500px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
 
-<h1>👋 Hi, I’m Quang</h1>
-<p>🎓 I'm currently a <strong>Master's student in Linguistic Data Science</strong> at Ruhr University Bochum, Germany.</p>
-<p>📘 I hold a <strong>Bachelor’s degree in Information Technology</strong> from James Cook University, Singapore.</p>
-<p>🎓 I also completed my <strong>GCSE education in EF UK</strong>, where I developed a strong foundation in mathematics and computing.</p>
+  <div style="flex: 1 1 300px; min-width: 280px;">
+    <h1>👋 Hi, I’m Quang</h1>
+    <p>🎓 I'm currently a <strong>Master's student in Linguistic Data Science</strong> at Ruhr University Bochum, Germany.</p>
+    <p>📘 I hold a <strong>Bachelor’s degree in Information Technology</strong> from James Cook University, Singapore.</p>
+    <p>🎓 I also completed my <strong>GCSE education in EF UK</strong>, where I developed a strong foundation in mathematics and computing.</p>
+  </div>
 
+  <div style="flex: 1 1 200px; text-align: center; min-width: 200px; margin-top: 12px;">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif" alt="NN GIF" width="200" style="max-width: 100%;">
   </div>
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif" alt="NN GIF" width="200">
-  </div>
+
 </div>
+
 
 
 ## 🧠 What I’m Passionate About
