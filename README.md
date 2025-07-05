@@ -1,4 +1,4 @@
-<img align="right" alt="Neural Network Sci-fi" width="300" src="[[https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40p._.%2Fneural-nets-299072b6e45f&psig=AOvVaw39o_Drdn2BoOD2520nryEc&ust=1751820524362000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjr15CWpo4DFQAAAAAdAAAAABAK)](https://medium.com/@p._./neural-nets-299072b6e45f)">
+<img align="right" alt="Neural Network Sci-fi" width="300" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif">
 
 # 👋 Hi, I’m Quang
 ![Visitor Count](https://komarev.com/ghpvc/?username=DangNhatQuang210801&label=Profile+views&color=0e75b6&style=flat)
