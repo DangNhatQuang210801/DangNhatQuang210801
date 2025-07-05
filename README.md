@@ -18,7 +18,6 @@
     </div>
 
   </div>
-
 </div>
 
 ## 🧠 What I’m Passionate About
