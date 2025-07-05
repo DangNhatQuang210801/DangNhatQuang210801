@@ -9,21 +9,16 @@
 <br>
 
 ## 🧠 What I’m Passionate About
-<div style="width: 100%; text-align: center;">
-  <div style="display: inline-block; width: 49%; vertical-align: top; text-align: left;">
-    <ul>
-      <li>Natural Language Processing (NLP)</li>
-      <li>Machine Learning and Neural Networks</li>
-      <li>Human-computer interaction & chatbot behavior</li>
-      <li>Data visualization and interpretation</li>
-    </ul>
-  </div>
-  <div style="display: inline-block; width: 49%; vertical-align: top;">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif" alt="Neural Network GIF" width="200" style="max-width: 100%;">
-  </div>
+<ul>
+  <li>Natural Language Processing (NLP)</li>
+  <li>Machine Learning and Neural Networks</li>
+  <li>Human-computer interaction & chatbot behavior</li>
+  <li>Data visualization and interpretation</li>
+</ul>
+
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif" alt="Neural Network GIF" width="200" style="max-width: 100%;">
 </div>
-
-
 
 ## 🛠 Tech Stack
 - **Languages**: Python, R, Java, SQL
