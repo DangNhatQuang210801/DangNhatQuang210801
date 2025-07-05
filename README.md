@@ -6,7 +6,6 @@
 🎓 I'm currently a **Master's student in Linguistic Data Science** at Ruhr University Bochum, Germany.  
 📘 I hold a **Bachelor’s degree in Information Technology** from James Cook University, Singapore.  
 🎓 I also completed my **GCSE education in EF UK**, where I developed a strong foundation in mathematics and computing.
-[![Visitor Count](https://komarev.com/ghpvc/?username=DangNhatQuang210801&label=Profile+views&color=0e75b6&style=flat)](https://github.com/DangNhatQuang210801)
 
 </td>
 <td>
