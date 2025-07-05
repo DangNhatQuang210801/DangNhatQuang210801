@@ -8,9 +8,9 @@
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-  <div style="flex: 1 1 300px; min-width: 280px;">
-    <h2>🧠 What I’m Passionate About</h2>
+## 🧠 What I’m Passionate About
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
+  <div style="flex: 1 1 50%; min-width: 200px;">
     <ul>
       <li>Natural Language Processing (NLP)</li>
       <li>Machine Learning and Neural Networks</li>
@@ -18,13 +18,11 @@
       <li>Data visualization and interpretation</li>
     </ul>
   </div>
-  <div style="flex: 1 1 200px; min-width: 200px; text-align: center;">
-    <picture>
-      <source media="(max-width: 600px)" srcset="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif" alt="Neural Network GIF" width="200" style="max-width: 100%;">
-    </picture>
+  <div style="flex: 1 1 50%; min-width: 200px; text-align: center;">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif" alt="Neural Network GIF" width="200" style="max-width: 100%;">
   </div>
 </div>
+
 
 ## 🛠 Tech Stack
 - **Languages**: Python, R, Java, SQL
