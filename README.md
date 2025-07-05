@@ -1,6 +1,7 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=DangNhatQuang210801&label=Profile+views&color=0e75b6&style=flat)
+<img align="right" alt="Neural Network Sci-fi" width="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 # 👋 Hi, I’m Quang
+![Visitor Count](https://komarev.com/ghpvc/?username=DangNhatQuang210801&label=Profile+views&color=0e75b6&style=flat)
 
 🎓 I'm currently a **Master's student in Linguistic Data Science** at Ruhr University Bochum, Germany.  
 📘 I hold a **Bachelor’s degree in Information Technology** from James Cook University, Singapore.  
