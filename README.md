@@ -1,13 +1,19 @@
-# 👋 Hi, I’m Quang
+<table>
+<tr>
+<td>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=DangNhatQuang210801&label=Profile+views&color=0e75b6&style=flat)
-
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif">
-
-
+# 👋 Hi, I’m Quang  
 🎓 I'm currently a **Master's student in Linguistic Data Science** at Ruhr University Bochum, Germany.  
 📘 I hold a **Bachelor’s degree in Information Technology** from James Cook University, Singapore.  
-🎓 I also completed my **GCSE education in the UK**, where I developed a strong foundation in mathematics and computing.
+🎓 I also completed my **GCSE education in EF UK**, where I developed a strong foundation in mathematics and computing.
+[![Visitor Count](https://komarev.com/ghpvc/?username=DangNhatQuang210801&label=Profile+views&color=0e75b6&style=flat)](https://github.com/DangNhatQuang210801)
+
+</td>
+<td>
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" alt="NN GIF">
+</td>
+</tr>
+</table>
 
 ## 🧠 What I’m Passionate About
 - Natural Language Processing (NLP)
