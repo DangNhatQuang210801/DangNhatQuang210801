@@ -3,12 +3,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=DangNhatQuang210801&label=Profile+views&color=0e75b6&style=flat)
 
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif">
-
-🎓 I'm a Master’s student in Linguistic Data Science at Ruhr University Bochum  
-💻 Bachelor’s in IT from James Cook University Singapore  
-🇬🇧 Completed my GCSEs in EF UK  
-🤖 I love NLP, machine learning, and building intelligent chatbots
-
 ...
 
 
