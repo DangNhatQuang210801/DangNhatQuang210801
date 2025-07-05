@@ -1,28 +1,33 @@
 <img src="https://github.com/mhardik003/mhardik003/blob/main/gifs/mario.gif?raw=true" alt="banner" width="100%">
 
-<table>
+<h1>👋 Hi, I’m Quang</h1>
+
+<p>🎓 I'm currently a <strong>Master's student in Linguistic Data Science</strong> at Ruhr University Bochum, Germany.</p>
+<p>📘 I hold a <strong>Bachelor’s degree in Information Technology</strong> from James Cook University, Singapore.</p>
+<p>🎓 I also completed my <strong>GCSE education in EF UK</strong>, where I developed a strong foundation in mathematics and computing.</p>
+
+<br>
+
+<table style="width: 100%;">
   <tr>
-    <td style="vertical-align: top; padding-right: 20px; min-width: 250px;">
-      <h1>👋 Hi, I’m Quang</h1>
-      <p>🎓 I'm currently a <strong>Master's student in Linguistic Data Science</strong> at Ruhr University Bochum, Germany.</p>
-      <p>📘 I hold a <strong>Bachelor’s degree in Information Technology</strong> from James Cook University, Singapore.</p>
-      <p>🎓 I also completed my <strong>GCSE education in EF UK</strong>, where I developed a strong foundation in mathematics and computing.</p>
+    <td style="width: 50%; vertical-align: top; padding-right: 16px;">
+      <h2>🧠 What I’m Passionate About</h2>
+      <ul>
+        <li>Natural Language Processing (NLP)</li>
+        <li>Machine Learning and Neural Networks</li>
+        <li>Human-computer interaction & chatbot behavior</li>
+        <li>Data visualization and interpretation</li>
+      </ul>
     </td>
-    <td style="text-align: center; min-width: 200px;">
+    <td style="width: 50%; text-align: center;">
       <picture>
-        <!-- Fallback: transparent 1x1 GIF on small screens -->
         <source media="(max-width: 600px)" srcset="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
-        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif" width="200" alt="NN GIF">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif" width="200" alt="Neural Network GIF" style="max-width: 100%;">
       </picture>
     </td>
   </tr>
 </table>
 
-## 🧠 What I’m Passionate About
-- Natural Language Processing (NLP)
-- Machine Learning and Neural Networks
-- Human-computer interaction & chatbot behavior
-- Data visualization and interpretation
 
 ## 🛠 Tech Stack
 - **Languages**: Python, R, Java, SQL
