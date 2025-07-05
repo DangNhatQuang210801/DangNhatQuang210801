@@ -10,7 +10,7 @@
 
 </td>
 <td>
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" alt="NN GIF">
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif" width="200" alt="NN GIF">
 </td>
 </tr>
 </table>
