@@ -1,22 +1,16 @@
-<table>
-  <tr>
-    <td>
-
-# 👋 Hi, I’m Quang  
-🎓 Master’s student in Linguistic Data Science  
-💻 IT Bachelor's from James Cook University, Singapore  
-🇬🇧 GCSE background from EF UK  
-
-[![Visitor Count](https://komarev.com/ghpvc/?username=DangNhatQuang210801&label=Profile+views&color=0e75b6&style=flat)](https://github.com/DangNhatQuang210801)
-
-  </td>
-  <td>
-    <img alt="Neural Network Sci-fi" width="200" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
-  </td>
-  </tr>
-</table>
+# 👋 Hi, I’m Quang
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DangNhatQuang210801&label=Profile+views&color=0e75b6&style=flat)
+
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif">
+
+🎓 I'm a Master’s student in Linguistic Data Science at Ruhr University Bochum  
+💻 Bachelor’s in IT from James Cook University Singapore  
+🇬🇧 Completed my GCSEs in EF UK  
+🤖 I love NLP, machine learning, and building intelligent chatbots
+
+...
+
 
 🎓 I'm currently a **Master's student in Linguistic Data Science** at Ruhr University Bochum, Germany.  
 📘 I hold a **Bachelor’s degree in Information Technology** from James Cook University, Singapore.  
