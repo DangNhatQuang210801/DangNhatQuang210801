@@ -1,6 +1,21 @@
-<img align="right" alt="Neural Network Sci-fi" width="300" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif">
+<table>
+  <tr>
+    <td>
 
-# 👋 Hi, I’m Quang
+# 👋 Hi, I’m Quang  
+🎓 Master’s student in Linguistic Data Science  
+💻 IT Bachelor's from James Cook University, Singapore  
+🇬🇧 GCSE background from EF UK  
+
+[![Visitor Count](https://komarev.com/ghpvc/?username=DangNhatQuang210801&label=Profile+views&color=0e75b6&style=flat)](https://github.com/DangNhatQuang210801)
+
+  </td>
+  <td>
+    <img alt="Neural Network Sci-fi" width="200" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+  </td>
+  </tr>
+</table>
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=DangNhatQuang210801&label=Profile+views&color=0e75b6&style=flat)
 
 🎓 I'm currently a **Master's student in Linguistic Data Science** at Ruhr University Bochum, Germany.  
