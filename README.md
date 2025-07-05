@@ -3,8 +3,6 @@
 <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px; display: table; width: 100%;">
 
   <div style="display: table-row;">
-
-    <!-- Left Column (Text) -->
     <div style="display: table-cell; vertical-align: top; padding-right: 20px; min-width: 280px;">
       <h1>👋 Hi, I’m Quang</h1>
       <p>🎓 I'm currently a <strong>Master's student in Linguistic Data Science</strong> at Ruhr University Bochum, Germany.</p>
@@ -12,14 +10,11 @@
       <p>🎓 I also completed my <strong>GCSE education in EF UK</strong>, where I developed a strong foundation in mathematics and computing.</p>
     </div>
 
-    <!-- Right Column (GIF) -->
     <div style="display: table-cell; vertical-align: middle; text-align: center; min-width: 200px;">
       <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif" width="200" alt="NN GIF" style="max-width: 100%;">
     </div>
-
   </div>
 </div>
-
 ## 🧠 What I’m Passionate About
 - Natural Language Processing (NLP)
 - Machine Learning and Neural Networks
