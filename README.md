@@ -1,12 +1,10 @@
 <img src="https://github.com/mhardik003/mhardik003/blob/main/gifs/mario.gif?raw=true" alt="banner" width="100%">
 
-<h1>👋 Hi, I’m Quang</h1>
+# 👋 Hi, I’m Quang
 
-<p>🎓 I'm currently a <strong>Master's student in Linguistic Data Science</strong> at Ruhr University Bochum, Germany.</p>
-<p>📘 I hold a <strong>Bachelor’s degree in Information Technology</strong> from James Cook University, Singapore.</p>
-<p>🎓 I also completed my <strong>GCSE education in EF UK</strong>, where I developed a strong foundation in mathematics and computing.</p>
-
-<br>
+🎓 I'm currently a **Master's student in Linguistic Data Science** at Ruhr University Bochum, Germany.  
+📘 I hold a **Bachelor’s degree in Information Technology** from James Cook University, Singapore.  
+🎓 I also completed my **GCSE education in EF UK**, where I developed a strong foundation in mathematics and computing.
 
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif" alt="Neural Network GIF" width="200" style="max-width: 100%; float: left; margin-right: 20px;">
