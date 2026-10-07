@@ -1,47 +1,25 @@
-<img src="https://github.com/mhardik003/mhardik003/blob/main/gifs/mario.gif?raw=true" alt="banner" width="100%">
+# Dang Nhat Quang
 
-# 👋 Hi, I’m Quang
+M.Sc. student in Linguistic Data Science at Ruhr University Bochum (expected December 2027). I hold a Bachelor of Information Technology (Data Science) from James Cook University Singapore, awarded with Distinction. I work on NLP, data analysis and software.
 
-🎓 I'm currently a **Master's student in Linguistic Data Science** at Ruhr University Bochum, Germany.  
-📘 I hold a **Bachelor’s degree in Information Technology** from James Cook University, Singapore.  
-🎓 I also completed my **GCSE education in EF UK**, where I developed a strong foundation in mathematics and computing.
+## Work
 
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif" alt="Neural Network GIF" width="200" style="max-width: 100%; float: left; margin-right: 20px;">
-</div>
+- **UGO**, CTO since January 2026. UGO is an AI travel app. I lead the technical direction and build features across the React Native app and the Python/FastAPI backend (PostgreSQL/PostGIS, LLM tool calling). The code is private and hosted on GitLab, so it does not appear on this profile.
+- **Sumiden Device Innovations (Sumitomo Electric Group)**, 14 months of software development and IT support, 02/2023 to 04/2024. I built database-backed HR, training and administration modules for a site with more than 500 employees, using ASP.NET Core, Entity Framework and SQL Server.
 
-### 🧠 What I’m Passionate About
+## Selected projects
 
-- **Natural Language Processing (NLP)**
-- **Machine Learning and Neural Networks**
-- **Human-computer interaction & chatbot behavior**
-- **Data visualization and interpretation**
+- [agentic-nlp-pipeline](https://github.com/DangNhatQuang210801/agentic-nlp-pipeline): tests whether an LLM agent with tools produces better dependency parses than direct prompting, on five languages including low-resource ones. Team project of four for the AI Engineering course at RUB, 2026. I built most of the shared tool layer: the tool protocol, n-gram and bag-of-words retrieval of similar annotated sentences, and morphology lookup.
+- [Customer-Chatbot-politeness-Identification](https://github.com/DangNhatQuang210801/Customer-Chatbot-politeness-Identification): do polite chatbot replies raise user satisfaction and compliance? Individual research project, 2025. Deterministic politeness tagging, masked A/B survey data (13,328 ratings from 350 participants) and paired t-tests in Python. [Results dashboard](https://dangnhatquang210801.github.io/Customer-Chatbot-politeness-Identification/)
+- [vietnamese-lexical-decision-task](https://github.com/DangNhatQuang210801/vietnamese-lexical-decision-task): how word frequency and syllable length affect reaction times in Vietnamese lexical decisions, 2026. Corpus filtering, frequency-balanced stimulus selection, pseudoword generation and a PsychoPy experiment.
 
+## Skills
 
+Python, SQL, R, pandas, statistics. LLMs, RAG, tool calling, model evaluation. FastAPI, React Native/TypeScript, C#/ASP.NET Core. PostgreSQL/PostGIS, SQL Server. Git, Docker, GitLab CI.
 
-## 🛠 Tech Stack
-- **Languages**: Python, R, Java, SQL
-- **ML & Data Science**: PyTorch, scikit-learn, pandas, NumPy, tidyverse
-- **Visualization**: Matplotlib, seaborn, ggplot2
-- **NLP Tools**: spaCy, BERT, sklearn NLP
-- **Workflow**: Git, Jupyter Notebook, VS Code, RStudio
+## Contact
 
-## 🚀 Projects
-- 🧮 [Neural Network Digit Recognition](https://github.com/DangNhatQuang210801/Neural-Network)  
-  A self-built neural network for recognizing handwritten digits (0–9) using NumPy and basic ML logic.
+- Email: business.nhatquang@gmail.com
+- LinkedIn: [linkedin.com/in/dangnhatquang](https://linkedin.com/in/dangnhatquang)
 
-- 💬 [Human Resource Generator](https://github.com/DangNhatQuang210801/Human-Resource-Generator)  
-  An interactive chatbot demo that simulates a simple HR assistant using NLP techniques.
-
-## 📌 Currently Learning
-- Deep learning: CNNs, RNNs, and Transformers
-- Advanced R modeling for statistical analysis
-- Politeness strategies in customer service bots (ongoing academic research)
-
-## ✉️ Contact Me
-- 📧 Email: Nhatquang.dang210801@gmail.com
-- 🌐 LinkedIn: [linkedin.com/in/dangnhatquang](https://linkedin.com/in/dangnhatquang)
-
----
-
-🧭 *Always learning, always building.*
+I am looking for a working-student or master's thesis role in AI, data or software.
